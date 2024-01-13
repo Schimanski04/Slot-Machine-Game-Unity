@@ -9,6 +9,7 @@ namespace Match3
         Green,
         Pink,
         Black,
+        Brown,
         Any,
         Count
     };
